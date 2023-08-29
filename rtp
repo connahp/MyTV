@@ -151,7 +151,7 @@ rtp://@232.84.1.81:8460
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4HD" tvg-logo="https://imgur.com/VsjIiRT.png" group-title="VTC",VTC4-yeah1Family
 rtp://@232.84.2.149:10714
 #EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5HD" tvg-logo="https://imgur.com/q0RPSP8.png" group-title="VTC",VTC5-TVBlue
-rtp://@232.84.2.38:10636
+rtp://@232.84.3.136:10720
 #EXTINF:-1 tvg-id="vtc6hd" tvg-name="VTC6HD" tvg-logo="https://imgur.com/GhgvSCX.png" group-title="VTC",VTC6-SàiGònChannel
 rtp://@232.84.1.58:8328
 #EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7HD-TodayTV" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC",VTC7-TodayTV
