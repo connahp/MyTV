@@ -335,7 +335,7 @@ rtp://@232.84.1.81:8460
 #EXTINF:-1 tvg-id="vtc4hd" tvg-name="VTC4HD" tvg-logo="https://imgur.com/VsjIiRT.png" group-title="VTC",VTC4-yeah1Family
 rtp://@232.84.2.149:10714
 #EXTINF:-1 tvg-id="vtc5hd" tvg-name="VTC5HD" tvg-logo="https://imgur.com/q0RPSP8.png" group-title="VTC",VTC5-TVBlue
-rtp://@232.84.2.150:10720
+rtp://@232.84.2.38:10636
 #EXTINF:-1 tvg-id="vtc6hd" tvg-name="VTC6HD" tvg-logo="https://imgur.com/GhgvSCX.png" group-title="VTC",VTC6-SàiGònChannel
 rtp://@232.84.1.58:8328
 #EXTINF:-1 tvg-id="vtc7hd" tvg-name="VTC7HD-TodayTV" tvg-logo="https://imgur.com/iMDjKF9.png" group-title="VTC",VTC7-TodayTV
@@ -409,7 +409,7 @@ rtp://@232.84.1.43:8238
 #EXTINF:-1 tvg-id="fashionhd" tvg-name="FashionTVHD" tvg-logo="https://imgur.com/AVm8t3Z.png" group-title="Tin tức QTe",Fashion
 rtp://@232.84.3.149:10522
 #EXTINF:-1 group-title="Tin tức QTe" tvg-logo="",ClubbingTV(HD5Mbps)
-rtp://@232.84.3.194:11086
+rtp://@232.84.3.96:11476
 #EXTINF:-1 tvg-id="kbsworld" tvg-name="KBSWorld" tvg-logo="https://imgur.com/HXFXYdZ.png" group-title="Tin tức QTe",KBS World
 rtp://@232.84.2.136:9612
 #EXTINF:-1 tvg-id="france24eng" tvg-name="France24English" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Tin tức QTe",France24
@@ -467,7 +467,7 @@ rtp://@232.84.2.117:8826
 #EXTINF:-1 tvg-id="caobang" tvg-name="CaoBằng" tvg-logo="https://imgur.com/vrpcqu9.png" group-title="Địa Phương",Cao Bằng
 rtp://@232.84.2.109:8844
 #EXTINF:-1 tvg-id="cantho" tvg-name="CầnThơ" tvg-logo="https://imgur.com/3VyHzYS.png" group-title="Địa Phương",Cần Thơ
-rtp://@232.84.2.118:8328
+rtp://@232.84.2.118:8838
 #EXTINF:-1 tvg-id="danang1" tvg-name="ĐàNẵng1" tvg-logo="https://imgur.com/V3NhGyb.png" group-title="Địa Phương",Đà Nẵng 1
 rtp://@232.84.1.146:8850
 #EXTINF:-1 tvg-id="danang2" tvg-name="ĐàNẵng2" tvg-logo="https://imgur.com/qLxtQIc.png" group-title="Địa Phương",Đà Nẵng 2
@@ -564,14 +564,12 @@ rtp://@232.84.2.91:9138
 rtp://@232.84.2.100:9090
 #EXTINF:-1 tvg-id="thainguyen" tvg-name="TháiNguyên" tvg-logo="https://imgur.com/cjbLDud.png" group-title="Địa Phương",Thái Nguyên 1
 rtp://@232.84.3.146:10774
-#EXTINF:-1 tvg-id="thainguyen" tvg-name="TháiNguyên" tvg-logo="https://imgur.com/L25E2kc.png" group-title="Địa Phương",Thái Nguyên 2
-rtp://@232.84.3.123:9168
 #EXTINF:-1 tvg-id="thanhhoa" tvg-name="ThanhHóa" tvg-logo="https://imgur.com/WQ5fAeY.png" group-title="Địa Phương",Thanh Hoá
 rtp://@232.84.2.111:9102
 #EXTINF:-1 tvg-id="thuathienhue" tvg-name="ThừaThiênHuế" tvg-logo="https://imgur.com/2l76kq2.png" group-title="Địa Phương",Thừa Thiên Huế
-rtp://@232.84.2.106:9042
+rtp://@232.84.2.106:9120
 #EXTINF:-1 tvg-id="travinh" tvg-name="TràVinh" tvg-logo="https://imgur.com/qX9mo40.png" group-title="Địa Phương",Trà Vinh
-rtp://@232.84.2.102:8472
+rtp://@232.84.2.102:9114
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="VĩnhLong1HD" tvg-logo="https://imgur.com/ltWpuOt.png" group-title="Địa Phương",Vĩnh Long 1
 rtp://@232.84.3.152:10882
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="VĩnhLong2HD" tvg-logo="https://imgur.com/MEKitFH.png" group-title="Địa Phương",Vĩnh Long 2
