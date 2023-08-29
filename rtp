@@ -201,8 +201,6 @@ rtp://@232.84.2.239:10452
 rtp://@232.84.3.224:11266
 #EXTINF:82tvg-id="bloomberg" tvg-name="Bloomberg" tvg-logo="https://imgur.com/HC1WD0K.png" group-title="Tin tức QTe",Bloomberg
 rtp://@232.84.3.157:10696
-#EXTINF:-1 tvg-id="MyTV_CCTV10-TiếngTrung" tvg-name="" tvg-logo="https://imgur.com/dhG9MEP.png" group-title="Tin tức QTe",CCTV10-TiếngTrung
-rtp://@232.84.1.3:7992
 #EXTINF:-1 tvg-id="MyTV_CCTV2-TiếngTrung" tvg-name="" tvg-logo="https://imgur.com/k1PUAil.png" group-title="Tin tức QTe",CCTV2-TiếngTrung
 rtp://@232.84.2.240:10458
 #EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="https://imgur.com/hpKz3qh.png" group-title="Tin tức QTe",CNNHD
