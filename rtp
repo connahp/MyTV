@@ -49,17 +49,10 @@ rtp://@232.84.2.123:8454
 rtp://@232.84.1.1:7980
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DiscoveryAsia" tvg-logo="https://i.imgur.com/COK7ZJ0.png" group-title="Khoa Học QT",Discovery Asia
 rtp://@232.84.3.219:11236
-#EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DiscoveryAsia" tvg-logo="https://i.imgur.com/COK7ZJ0.png" group-title="Khoa Học QT",Discovery Asia FPT
-#http://fpt2.duckdns.org:11122/udp/225.1.2.223:30120
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth" group-title="Khoa Học QT" tvg-logo="https://i.imgur.com/lsNRwan.jpg",BBC Earth
 rtp://@232.84.3.226:11278
 #EXTINF:-1 tvg-id="discoveryhd" tvg-name="DiscoveryChannel" tvg-logo="https://i.imgur.com/HEmzRBb.png" group-title="Khoa Học QT",Discovery
 rtp://@232.84.3.132:10528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PKHNyFb.png" group-title="Khoa Học QT",4KNature(RAW)
-#http://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3u8
-#EXTINF:-1 tvg-id="lovenature" tvg-logo="https://i.imgur.com/PKHNyFb.png" group-title="Khoa Học QT",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8?cc
-#https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #===========================❤Kênh Truc Tiep❤================================================================================
 #EXTINF:-1 tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/tv-360-1.png" group-title="Trực tiếp",TV360+ 1
