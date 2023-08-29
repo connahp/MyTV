@@ -95,9 +95,6 @@ rtp://@232.84.3.243:11380
 rtp://@232.84.1.217:9276
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://i.imgur.com/jdCeaVC.jpg" group-title="VTVCab",ON SportsNews
 #rtp://@232.84.2.193:10942
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/jdCeaVC.jpg",ON Sports News
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://iplogger.com/21Hpb4.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://i.imgur.com/BGF2I58.png" group-title="VTVCab",ON Golf
 rtp://@232.84.3.244:11386
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://i.imgur.com/WsGJxtz.jpg" group-title="VTVCab",ON VFamily
@@ -128,8 +125,6 @@ rtp://@232.84.3.88:11524
 rtp://@232.84.1.32:8166
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTVCab",HTV1
 rtp://@232.84.1.35:8184
-#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTVCab",HTV2
-rtp://@232.84.1.222:9306
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTVCab",HTV2HD
 rtp://@232.84.2.182:9306
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://imgur.com/gjZnjmF.png" group-title="HTVCab",HTV3
@@ -165,13 +160,11 @@ rtp://@232.84.1.214:9258
 #EXTINF:-1 tvg-id="vtc11hd" tvg-name="VTC11-Kids&FamilyTV" tvg-logo="https://imgur.com/UaAmF0L.png" group-title="VTC",VTC11-kidsTV
 rtp://@232.84.1.61:8340
 #EXTINF:-1 tvg-id="vtc12hd" tvg-name="VTC11-Kids&FamilyTV" tvg-logo="https://imgur.com/UaAmF0L.png" group-title="VTC",VTC12
-rtp://@232.84.1.202:9186
+rtp://@232.84.3.193:11080
 #EXTINF:-1 tvg-id="vtc13hd" tvg-name="VTC13HD" tvg-logo="https://imgur.com/lNji7l0.png" group-title="VTC",VTC13-Canhạc
 rtp://@232.84.1.74:8418
 #EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14HD" tvg-logo="https://imgur.com/Kqt7Myy.png" group-title="VTC",VTC14
 rtp://@232.84.3.216:11218
-#EXTINF:-1 tvg-id="vtc14hd" tvg-name="VTC14HD" tvg-logo="https://imgur.com/Kqt7Myy.png" group-title="VTC",VTC14FPT
-http://fpt2.duckdns.org:11122/udp/225.1.2.88:30120
 #EXTINF:-1 tvg-id="vtc16hd" tvg-name="VTC16HD" tvg-logo="https://imgur.com/22TpWVd.png" group-title="VTC",VTC16-3NTV
 rtp://@232.84.3.98:11458
 
