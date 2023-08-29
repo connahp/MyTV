@@ -66,7 +66,7 @@ http://live-ali4.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8
 #EXTINF:1 group-title="Trực tiếp" tvg-id="" tvg-logo="https://tchiphuong.github.io/iptv/images/background/tv-360-4.png",TV360+ 4
 http://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
-#---------------------VTVCAB----------------------------------------------
+#===============================VTVCAB=================================================================================
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/fVDS1c7.jpg" group-title="VTVCab",VTVcab1 VieGiảiTrí
 rtp://@232.84.1.143:8832
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://i.imgur.com/6iITUe5.jpg" group-title="VTVCab",ON Phim Việt
@@ -106,7 +106,7 @@ rtp://@232.84.2.192:10936
 #EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="http://i.imgur.com/4t7M1DY.jpg" group-title="VTVCab",VTVcab19 VieDramas
 rtp://@232.84.3.218:11230
 
-#----------------------HTV----------------------------------------------
+#================================HTV========================================
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://imgur.com/ifeb8fC.png" group-title="HTVCab",Canhạc
 rtp://@232.84.1.126:8730
 #EXTINF:-1 tvg-id="htvcdulichcuocsong" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTVCab",Dulịch&Cuộcsống
@@ -136,7 +136,7 @@ rtp://@232.84.1.223:9312
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://imgur.com/Hqo8hqb.png" group-title="HTVCab",HTV9
 rtp://@232.84.1.224:9318
 
-----------------------VTCMYTV----------------------------------------------
+#====================================VTCMYTV===========================================================
 #EXTINF:-1 tvg-id="vtc1hd" tvg-name="VTC1HD" tvg-logo="https://imgur.com/8jgYSbN.png" group-title="VTC",VTC1
 rtp://@232.84.2.173:10846
 #EXTINF:-1 tvg-id="vtc2" tvg-name="VTC2" tvg-logo="https://imgur.com/H6FMp9C.png" group-title="VTC",VTC2
@@ -168,7 +168,7 @@ rtp://@232.84.3.216:11218
 #EXTINF:-1 tvg-id="vtc16hd" tvg-name="VTC16HD" tvg-logo="https://imgur.com/22TpWVd.png" group-title="VTC",VTC16-3NTV
 rtp://@232.84.3.98:11458
 
-----------------------THIEUNHI----------------------------------------------
+#================================THIEUNHI============================================================================
 #EXTINF:-1 tvg-id="davinci" tvg-name="DaVinciHD" tvg-logo="https://i.imgur.com/caWNzrD.png" group-title="Thiếu Nhi QT",DaVinciLearning
 rtp://@232.84.2.131:9582
 #EXTINF:-1 tvg-id="babytvhd" tvg-name="BabytvHD" tvg-logo="https://imgur.com/LBU2zCq.png" group-title="Thiếu Nhi QT",BabyTV
@@ -184,7 +184,7 @@ rtp://@232.84.1.18:8082
 #EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" group-title="Thiếu Nhi QT" tvg-logo="https://i.imgur.com/EZ74H6W.jpg",Boomerang
 rtp://@232.84.3.222:11254
 
-----------------------TINTUCNUOCNGOAI------------------------------------------
+#====================================TINTUCNUOCNGOAI------------------------------------------
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-name="BBCLifeStyle" group-title="Tin tức QTe" tvg-logo="https://i.imgur.com/DEf0ydC.jpg",BBC lifestyle
 rtp://@232.84.3.225:11272
 #EXTINF:-1 tvg-id="nhkworld" tvg-name="NHKWorld" tvg-logo="https://imgur.com/pjSWuxG.png" group-title="Tin tức QTe",NHK WORLD
