@@ -13,6 +13,8 @@ rtp://@232.84.2.32:10600
 rtp://@232.84.2.33:10606
 #EXTINF:-1 tvg-id="vtv5hdtnb" tvg-name="VTV5HD" tvg-logo="https://i.imgur.com/fCpZa6a.png" group-title="VTV",VTV5 Tây Nam Bộ
 rtp://@232.84.3.86:11542
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://img.vnmedia.xyz/logo/vtv5hdtn.png", VTV5 HD - Tây Nguyên
+rtp://@232.84.3.66:11656
 #EXTINF:-1 tvg-id="vtv6hd" tvg-name="VTV6HD" tvg-logo="https://i.imgur.com/hmuFxNg.png" group-title="VTV",VTV - Cần Thơ
 rtp://@232.84.1.119:10266
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7HD" tvg-logo="http://i.imgur.com/h9heNny.jpg" group-title="VTV",VTV7
@@ -66,41 +68,41 @@ http://live-ali4.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8
 
 #===============================VTVCAB=================================================================================
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="https://i.imgur.com/fVDS1c7.jpg" group-title="VTVCab",VTVcab1 VieGiảiTrí
-rtp://@232.84.1.143:8832
+rtp://@232.84.3.78:11584
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="https://i.imgur.com/6iITUe5.jpg" group-title="VTVCab",ON Phim Việt
-rtp://@232.84.1.168:8982
+rtp://@232.84.3.77:11590
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/hNjvjoT.png",On Sports
 rtp://@232.84.3.242:11374
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://i.imgur.com/eZf5gIz.jpg" group-title="VTVCab",ON Movies
 rtp://@232.84.2.190:10924
 #EXTINF:-1 tvg-id="vtvcab5_e_channel" tvg-logo="https://imgur.com/FoGuNrA.png" group-title="VTVCab",ON EChannel
-rtp://@232.84.3.90:11512
+rtp://@232.84.3.76:11596
 #EXTINF:-1 tvg-id="vtvcab6_haytv" tvg-logo="https://imgur.com/RHEqrMK.png" group-title="VTVCab",VTVCab6-HayTV
 #rtp://@232.84.1.220:9294
 #EXTINF:-1 tvg-id="vtvcab7hd" tvg-logo="https://i.imgur.com/vhA7qXh.jpg" group-title="VTVCab",ON O2TV
-rtp://@232.84.1.26:8130
+rtp://@232.84.3.74:11608
 #EXTINF:-1 tvg-id="vtvcab8hd" tvg-logo="https://i.imgur.com/1doyHjp.jpg" group-title="VTVCab",ON BiBi
 rtp://@232.84.3.217:11224
 #EXTINF:-1 tvg-id="vtvcab9hd" tvg-logo="https://i.imgur.com/zHXncbO.jpg" group-title="VTVCab",ON InfoTV
-rtp://@232.84.2.191:10930
+rtp://@232.84.3.73:11614
 #EXTINF:-1 tvg-id="vtvcab10hd" tvg-logo="https://i.imgur.com/13KxydE.jpg" group-title="VTVCab",ON Cine
-rtp://@232.84.1.205:9204
+rtp://@232.84.3.72:11620
 #EXTINF:-1 tvg-id="vtvcab12hd" tvg-logo="https://i.imgur.com/Piy9Fvo.jpg" group-title="VTVCab",ON StyleTV
-rtp://@232.84.1.244:9438
+rtp://@232.84.3.71:11626
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/hNjvjoT.png",On FootballHD
 rtp://@232.84.3.243:11380
 #EXTINF:-1 tvg-id="vtvcab17_yeah1_tv" tvg-logo="https://i.imgur.com/AdgfROj.jpg" group-title="VTVCab",ON TrendingTV
-rtp://@232.84.1.217:9276
+rtp://@232.84.3.69:11638
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://i.imgur.com/jdCeaVC.jpg" group-title="VTVCab",ON SportsNews
 #rtp://@232.84.2.193:10942
 #EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="https://i.imgur.com/BGF2I58.png" group-title="VTVCab",ON Golf
 rtp://@232.84.3.244:11386
 #EXTINF:-1 tvg-id="vtvcab20hd" tvg-logo="https://i.imgur.com/WsGJxtz.jpg" group-title="VTVCab",ON VFamily
-rtp://@232.84.1.245:10344
+rtp://@232.84.3.68:11644
 #EXTINF:-1 tvg-id="mtv" tvg-logo="https://imgur.com/YXNQJTt.png" group-title="VTVCab",VTVCab-MTV
 rtp://@232.84.1.75:8424
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVCab" tvg-logo="https://i.imgur.com/UxE6sLX.jpg",ON Music
-rtp://@232.84.2.192:10936
+rtp://@232.84.3.70:11632
 #EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="http://i.imgur.com/4t7M1DY.jpg" group-title="VTVCab",VTVcab19 VieDramas
 rtp://@232.84.3.218:11230
 
