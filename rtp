@@ -207,8 +207,6 @@ rtp://@232.84.2.240:10458
 rtp://@232.84.3.153:10690
 #EXTINF:-1 tvg-id="ChannelVHD-ClipTV" tvg-name="ChannnelVHD" tvg-logo="https://imgur.com/p7w1FbM.png" group-title="Tin tức QTe",ChannelV
 rtp://@232.84.3.144:9588
-#EXTINF:-1 tvg-id="DivaUniversalSD" tvg-name="DIVAHD" tvg-logo="https://imgur.com/AwKga74.png" group-title="Tin tức QTe",Diva Universal
-rtp://@232.84.2.130:9576
 #EXTINF:-1 tvg-id="DW" tvg-name="DWHD" tvg-logo="https://imgur.com/UAqsZvd.png" group-title="Tin tức QTe",DW-TV
 rtp://@232.84.3.154:10416
 #EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://imgur.com/E3M02yH.png" group-title="Tin tức QTe",Arirang
@@ -221,8 +219,6 @@ rtp://@232.84.3.96:11476
 rtp://@232.84.2.136:9612
 #EXTINF:-1 tvg-id="france24eng" tvg-name="France24English" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Tin tức QTe",France24
 rtp://@232.84.3.145:9606
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTVHITS" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Tin tức QTe",MTVVIETNAM
-rtp://@232.84.3.107:10834
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTVHITS" tvg-logo="https://imgur.com/sTK7s5R.png" group-title="Tin tức QTe",MusicBox
 rtp://@232.84.1.13:8052
 #EXTINF:-1 group-title="Tin tức QTe",Aplus
@@ -259,8 +255,6 @@ rtp://@232.84.2.245:10506
 rtp://@232.84.2.115:8778
 #EXTINF:-1 tvg-id="binhduong1" tvg-name="BìnhDương1" tvg-logo="https://imgur.com/Jod5zk5.png" group-title="Địa Phương",Bình Dương1
 rtp://@232.84.3.109:10750
-#EXTINF:-1 tvg-id="binhduong2" tvg-name="BìnhDương2" tvg-logo="https://imgur.com/zOmr98N.png" group-title="Địa Phương",Bình Dương2
-rtp://@232.84.1.137:8796
 #EXTINF:-1 tvg-id="MyTV_BìnhDương4-iMovieTVHD" tvg-name="" tvg-logo="https://imgur.com/bAszEEm.png" group-title="Địa Phương",Bình Dương4-iMovieTV
 rtp://@232.84.2.156:10756
 #EXTINF:-1 tvg-id="binhdinh" tvg-name="BìnhĐịnh" tvg-logo="https://imgur.com/j9KJRyU.png" group-title="Địa Phương",Bình Định
@@ -287,10 +281,6 @@ rtp://@232.84.3.140:8874
 rtp://@232.84.3.116:8880
 #EXTINF:-1 tvg-id="dongnai1" tvg-name="ĐồngNai1" tvg-logo="https://imgur.com/Ka8qiSB.png" group-title="Địa Phương",Đồng Nai 1
 rtp://@232.84.3.112:10762
-#EXTINF:-1 tvg-id="dongnai2" tvg-name="ĐồngNai2" tvg-logo="https://imgur.com/06FLyDP.png" group-title="Địa Phương",Đồng Nai 2
-rtp://@232.84.1.153:8892
-#EXTINF:-1 tvg-id="dongnai" tvg-name="ĐồngNai9" tvg-logo="https://imgur.com/sFk4KkG.png" group-title="Địa Phương",Đồng Nai 9
-rtp://@232.84.2.243:10476
 #EXTINF:-1 tvg-id="dongthap" tvg-name="ĐồngTháp" tvg-logo="https://imgur.com/ykiiXBV.png" group-title="Địa Phương",Đồng Tháp
 rtp://@232.84.1.154:8898
 #EXTINF:-1 tvg-id="gialai" tvg-name="GiaLai" tvg-logo="https://imgur.com/a0nHDNB.png" group-title="Địa Phương",Gia Lai
@@ -312,11 +302,9 @@ rtp://@232.84.3.142:10780
 #EXTINF:-1 tvg-id="haugiang" tvg-name="HậuGiang" tvg-logo="https://imgur.com/aXI7y1V.png" group-title="Địa Phương",Hậu Giang
 rtp://@232.84.2.112:8940
 #EXTINF:-1 tvg-id="hoabinh" tvg-name="HòaBình" tvg-logo="https://imgur.com/3yiJXTs.png" group-title="Địa Phương",Hòa Bình
-rtp://@232.84.3.130:8946
+rtp://@232.84.3.213:11200
 #EXTINF:-1 tvg-id="hungyen" tvg-name="HưngYên" tvg-logo="https://imgur.com/9bnQqNs.png" group-title="Địa Phương",Hưng Yên
 rtp://@232.84.3.110:10786
-#EXTINF:-1 tvg-id="kiengiang" tvg-name="KiênGiang" tvg-logo="http://i.imgur.com/TiQJt5U.jpg" group-title="Địa Phương",Kiên Giang
-rtp://@232.84.2.113:8964
 #EXTINF:-1 tvg-id="kiengiang" tvg-name="KiênGiang" tvg-logo="http://i.imgur.com/TiQJt5U.jpg" group-title="Địa Phương",Kien Giang
 rtp://@232.84.3.161:10918
 #EXTINF:-1 tvg-id="kontum" tvg-name="KonTum" tvg-logo="https://imgur.com/ozTB3Iw.png" group-title="Địa Phương",Kon Tum
@@ -388,7 +376,7 @@ rtp://@232.84.3.160:10912
 #EXTINF:-1 tvg-id="vinhphuc" tvg-name="VĩnhPhúc" tvg-logo="http://i.imgur.com/S0eF5F8.jpg" group-title="Địa Phương",Vĩnh Phúc
 rtp://@232.84.2.83:9156
 #EXTINF:-1 tvg-id="yenbai" tvg-name="YênBái" tvg-logo="https://imgur.com/J92zJfH.png" group-title="Địa Phương",Yên Bái
-rtp://@232.84.2.75:8790
+rtp://@232.84.3.253:11440
 
 #===========================❤ThietYếu❤================================================================================
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://imgur.com/kHZtzZw.png" group-title="Thiết Yếu",An Ninh TV
