@@ -45,10 +45,6 @@ rtp://@232.84.3.121:10660
 #==============================❤KHOAHOC❤===============================================================================
 #EXTINF:-1 tvg-id="animalhd" tvg-name="AnimalPlanetHD" tvg-logo="http://i.imgur.com/V6dxmRT.jpg" group-title="Khoa Học QT",Animal Planet
 rtp://@232.84.3.139:10702
-#EXTINF:69tvg-id="ngwhd" tvg-name="NationalGeographicWild" tvg-logo="http://i.imgur.com/jssSTAc.jpg" group-title="Khoa Học QT",NatGeoWild
-rtp://@232.84.2.123:8454
-#EXTINF:-1 tvg-id="ngchd" tvg-name="NationalGeographicChannel" tvg-logo="https://i.imgur.com/3cZD9cX.png" group-title="Khoa Học QT",NatGeo
-rtp://@232.84.1.1:7980
 #EXTINF:-1 tvg-id="discoveryasiahd" tvg-name="DiscoveryAsia" tvg-logo="https://i.imgur.com/COK7ZJ0.png" group-title="Khoa Học QT",Discovery Asia
 rtp://@232.84.3.219:11236
 #EXTINF:-1 tvg-id="bbcearth" tvg-name="bbcearth" group-title="Khoa Học QT" tvg-logo="https://i.imgur.com/lsNRwan.jpg",BBC Earth
