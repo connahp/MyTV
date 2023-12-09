@@ -104,12 +104,12 @@ rtp://@232.84.3.218:11230
 
 #================================HTV========================================
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://imgur.com/ifeb8fC.png" group-title="HTVCab",Canhạc
-rtp://@232.84.1.126:8730
-#EXTINF:-1 tvg-id="htvcdulichcuocsong" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTVCab",Dulịch&Cuộcsống
-rtp://@232.84.1.221:9300
+rtp://@232.84.3.54:11728
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTVCab",Dulịch&Cuộcsống
+rtp://@232.84.3.53:11734
 #EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://imgur.com/CKOqpVy.png" group-title="HTVCab",Giađình
 rtp://@232.84.1.170:8994
-#EXTINF:-1 tvg-id="htvcphimtruyenhd" tvg-logo="https://imgur.com/eykbdo0.png" group-title="HTVCab",Paramount
+#EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://imgur.com/eykbdo0.png" group-title="HTVCab",Paramount
 rtp://@232.84.2.133:9594
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://imgur.com/yXZ2rvL.png" group-title="HTVCab",Phụnữ
 rtp://@232.84.1.127:8736
@@ -117,16 +117,16 @@ rtp://@232.84.1.127:8736
 rtp://@232.84.2.134:9600
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="HTVCab",Thểthao
 rtp://@232.84.3.88:11524
-#EXTINF:-1 tvg-id="htvplus" tvg-logo="https://i.imgur.com/O7ZxJNQ.png" group-title="HTVCab",HTVC+
+#EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/O7ZxJNQ.png" group-title="HTVCab",HTVC+
 rtp://@232.84.1.32:8166
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTVCab",HTV1
-rtp://@232.84.1.35:8184
-#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTVCab",HTV2HD
+rtp://@232.84.3.57:11710
+#EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTVCab",HTV2
 rtp://@232.84.2.182:9306
 #EXTINF:-1 tvg-id="htv3" tvg-logo="https://imgur.com/gjZnjmF.png" group-title="HTVCab",HTV3
-rtp://@232.84.1.104:8598
+rtp://@232.84.3.56:11716
 #EXTINF:-1 tvg-id="htv4" tvg-logo="https://imgur.com/yfQlyez.png" group-title="HTVCab",HTVKey
-rtp://@232.84.1.25:8124
+rtp://@232.84.3.55:11722
 #EXTINF:-1 tvg-id="htv7hd" tvg-logo="https://imgur.com/OfGoIJ4.png" group-title="HTVCab",HTV7
 rtp://@232.84.1.223:9312
 #EXTINF:-1 tvg-id="htv9hd" tvg-logo="https://imgur.com/Hqo8hqb.png" group-title="HTVCab",HTV9
