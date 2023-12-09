@@ -270,7 +270,7 @@ rtp://@232.84.1.146:8850
 #EXTINF:-1 tvg-id="danang2" tvg-name="ĐàNẵng2" tvg-logo="https://imgur.com/qLxtQIc.png" group-title="Địa Phương",Đà Nẵng 2
 rtp://@232.84.3.122:8856
 #EXTINF:-1 tvg-id="daklak" tvg-name="ĐăkLăk" tvg-logo="https://imgur.com/pdYTQBn.png" group-title="Địa Phương",Đắk Lắk
-rtp://@232.84.2.86:8868
+rtp://@232.84.3.99:11464
 #EXTINF:-1 tvg-id="dacnong" tvg-name="ĐắcNông" tvg-logo="https://imgur.com/JTPDKYL.png" group-title="Địa Phương",Đắk Nông
 rtp://@232.84.3.140:8874
 #EXTINF:-1 tvg-id="dienbien" tvg-name="ĐiệnBiên" tvg-logo="https://imgur.com/jzcwhSN.png" group-title="Địa Phương",ĐiệnBiên
