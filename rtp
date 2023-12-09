@@ -105,20 +105,20 @@ rtp://@232.84.3.218:11230
 #================================HTV========================================
 #EXTINF:-1 tvg-id="htvccanhachd" tvg-logo="https://imgur.com/ifeb8fC.png" group-title="HTVCab",Canhạc
 rtp://@232.84.3.54:11728
-#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTVCab",Dulịch&Cuộcsống
+#EXTINF:-1 tvg-id="htvcdulichhd" tvg-logo="https://imgur.com/nTF9DFR.png" group-title="HTVCab",Dulịch & Cuộcsống
 rtp://@232.84.3.53:11734
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://imgur.com/CKOqpVy.png" group-title="HTVCab",Giađình
-rtp://@232.84.1.170:8994
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://imgur.com/CKOqpVy.png" group-title="HTVCab",Gia đình
+rtp://@232.84.3.52:11740
 #EXTINF:-1 tvg-id="htvcphimhd" tvg-logo="https://imgur.com/eykbdo0.png" group-title="HTVCab",Paramount
 rtp://@232.84.2.133:9594
 #EXTINF:-1 tvg-id="htvcphunuhd" tvg-logo="https://imgur.com/yXZ2rvL.png" group-title="HTVCab",Phụnữ
-rtp://@232.84.1.127:8736
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTVCab",ThuầnViệt
+rtp://@232.84.3.51:11746
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="https://imgur.com/M4rF27R.png" group-title="HTVCab",Thuần Việt
 rtp://@232.84.2.134:9600
 #EXTINF:-1 tvg-id="htvthethaohd" tvg-logo="https://imgur.com/A8RNAwQ.png" group-title="HTVCab",Thểthao
 rtp://@232.84.3.88:11524
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.imgur.com/O7ZxJNQ.png" group-title="HTVCab",HTVC+
-rtp://@232.84.1.32:8166
+rtp://@232.84.3.245:11392
 #EXTINF:-1 tvg-id="htv1" tvg-logo="https://imgur.com/gftnwdV.png" group-title="HTVCab",HTV1
 rtp://@232.84.3.57:11710
 #EXTINF:-1 tvg-id="htv2hd" tvg-logo="https://imgur.com/O6jgDUM.png" group-title="HTVCab",HTV2
