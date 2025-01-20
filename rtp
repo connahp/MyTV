@@ -178,8 +178,6 @@ rtp://@232.84.3.126:10798
 rtp://@232.84.3.99:11464
 #EXTINF:613 tvg-name="Bình Dương 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/1j3c9nK.jpg",BTV1 HD _ TH Bình Dương (HD 6Mbps)
 rtp://@232.84.3.109:10750
-#EXTINF:615 tvg-name="iMovie" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/dG7w5h6.png",BTV4 HD _ TH Bình Dương (HD 6Mbps)
-rtp://@232.84.2.156:10756
 #EXTINF:616 tvg-name="" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/glzn3Lj.png",BTV9 An Viên HD (HD 8.5Mbps)
 rtp://@232.84.3.199:11116
 #EXTINF:603 tvg-name="Đồng Nai 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/zUKKdCf.png",ĐNRTV1 HD _ TH Đồng Nai (HD 6Mbps)
@@ -192,10 +190,6 @@ rtp://@232.84.3.95:11482
 rtp://@232.84.2.183:10882
 #EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
 rtp://@232.84.2.184:10888
-#EXTINF:24 tvg-name="Vĩnh Long 1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/mDQssNg.jpg",THVL1 HD _ TH Vĩnh Long (HD 6.5Mbps)
-rtp://@232.84.3.152:10882
-#EXTINF:28 tvg-name="Vĩnh Long 2" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/hrsgjNu.jpg",THVL2 HD _ TH Vĩnh Long (HD 6.5Mbps)
-rtp://@232.84.3.164:10888
 #EXTINF:29 tvg-name="Vĩnh Long 3" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/w7nxAjc.jpg",THVL3 HD _ TH Vĩnh Long (HD 6.5Mbps)
 rtp://@232.84.3.165:10900
 #EXTINF:57 tvg-name="Vĩnh Long 4" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/iuYepMv.jpg",THVL4 HD _ TH Vĩnh Long (HD 6Mbps)
