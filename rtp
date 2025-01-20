@@ -140,13 +140,7 @@ rtp://@232.84.3.125:10434
 rtp://@232.84.1.212:9246
 #EXTINF:-1 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
 rtp://@232.84.1.228:9342
-#------------------------Other------------------------#
-#EXTINF:79 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV (HD 7Mbps)
-rtp://@232.84.2.171:10834
-#EXTINF:92 tvg-name="HITV" group-title="Other Channel" tvg-logo="https://i.imgur.com/v08VbZS.png",HCATV1 HiTV
-rtp://@232.84.1.55:8310
-#EXTINF:-1 tvg-name="MTV" group-title="Other Channel" tvg-logo="https://i.imgur.com/qE1q70A.jpg",MTV
-rtp://@232.84.1.82:8466
+
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
 rtp://@232.84.3.253:11440
