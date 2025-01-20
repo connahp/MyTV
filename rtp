@@ -132,12 +132,8 @@ rtp://@232.84.1.127:8736
 #------------------------Thiết Yếu------------------------#
 #EXTINF:127 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN (HD 8.5Mbps)
 rtp://@232.84.3.127:10816
-#EXTINF:133 tvg-name="VNews" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/Lh9aWAL.jpg",VNEWS (HD 8.5Mbps)
-rtp://@232.84.3.125:10434
 #EXTINF:35 tvg-name="ANTV" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/lvYjN2D.jpg",ANTV
 rtp://@232.84.1.212:9246
-#EXTINF:-1 tvg-name="QPVN" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/dcjQ1eA.jpg",QPVN
-rtp://@232.84.1.228:9342
 
 #------------------------Địa phương (HD)------------------------#
 #EXTINF:211 tvg-name="Yên Bái" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/6tey10m.png",YTV HD _ TH Yên Bái (HD 6Mbps)
