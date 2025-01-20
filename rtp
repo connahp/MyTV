@@ -111,8 +111,6 @@ rtp://@232.84.1.224:9318
 rtp://@232.84.3.88:11524
 #EXTINF:77 tvg-name="HTVC Phim" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 4.5Mbps)
 rtp://@232.84.2.133:9594
-#EXTINF:77 tvg-name="HTVC Phim" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/pNG3Fri.png",HTVC Phim (HD 4.5Mbps)
-rtp://@232.84.3.118:9594
 #EXTINF:74 tvg-name="HTVC Thuần Việt HD" group-title="HTV/HTVC" tvg-logo="https://imgur.com/Y1dU8EG.jpg",Thuần Việt HD (HD 4Mbps)
 rtp://@232.84.2.134:9600
 #EXTINF:168 tvg-name="HTVC Plus" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/O7ZxJNQ.png",HTVC+ (HD 4.5Mbps)
@@ -257,8 +255,6 @@ rtp://@232.84.3.227:11284
 rtp://@232.84.2.233:10416
 #EXTINF:-1 tvg-name="Fashion TV" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 8.5Mbps)
 rtp://@232.84.2.52:10522
-#EXTINF:-1 tvg-name="Fashion TV" group-title="Quốc Tế (HD)" tvg-logo="",Fashion TV (HD 8.5Mbps)
-#rtp://@232.84.3.149:10522
 #EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)" tvg-logo="",HBO (HD 11Mbps)
 rtp://@232.84.2.138:10648
 #EXTINF:-1 tvg-name="Music Box" group-title="Quốc Tế (HD)" tvg-logo="",Music Box (HD 8Mbps)
