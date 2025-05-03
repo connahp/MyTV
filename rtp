@@ -279,3 +279,5 @@ rtp://@232.84.1.123:10320
 rtp://@232.84.1.125:10326
 #EXTINF:140 tvg-name="K+SPORT2" group-title="K+" tvg-logo="https://i.imgur.com/pVEfe6D.jpg",K+ Sport 2 HD (DRM)
 rtp://@232.84.1.176:10374
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1
+rtp://@232.84.1.98:8562
