@@ -41,12 +41,11 @@ rtp://@232.84.1.143:8832
 rtp://@232.84.1.168:8982
 #EXTINF:91 tvg-name="VTVCab7 - Sức khỏe và cuộc sống" group-title="VTVcab" tvg-logo="https://i.imgur.com/bFWgi4j.png",ON O2TV
 rtp://@232.84.1.26:8130
-#EXTINF:-1 tvg-name="VTVCab8 - Bibi" group-title="VTVcab" tvg-logo="https://i.imgur.com/tFXYz2b.jpg",ON BiBi
-rtp://@232.84.1.206:9210
+
 #EXTINF:195 tvg-name="VTVCab9 - Info TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/TuYOsTV.jpg",VTVcab9 Info TV
 rtp://@232.84.2.191:10930
 #EXTINF:105 tvg-name="VTVCab10 - ON Cine" group-title="VTVcab" tvg-logo="https://i.imgur.com/13KxydE.jpg",ON Cine
-rtp://@232.84.1.205:9204
+rtp://@232.84.3.72:11620
 #EXTINF:103 tvg-name="VTVCab12 - Style TV" group-title="VTVcab" tvg-logo="https://i.imgur.com/XquBifl.jpg",VTVcab12 Style TV
 rtp://@232.84.1.244:9438
 #EXTINF:196 tvg-name="VTVCab15 - M Channel" group-title="VTVcab" tvg-logo="https://i.imgur.com/dEzdry4.jpg",ON Music
